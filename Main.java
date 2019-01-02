@@ -1,3 +1,5 @@
+//Operating system simulation incorporating a basic GUI to show multi-threading relationship between users, printers, and disks.
+
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;
